@@ -22,8 +22,8 @@ published discovery information.
 
 ## Scope 
 
-Discovery in the DAWN context is limited to a client requesting, "Find
-me an agent resource to interact with," within a local
+Discovery in the DAWN context is limited to a client requesting "Find
+me an agent resource to interact with" within a local
 network, within an organization, or between organizations. This may
 include communication about the following example attributes:
 
@@ -68,7 +68,7 @@ The DAWN working group will work on the following deliverables:
 
 - Discovery Architecture: A document describing the problem space,
   requirements, and the resulting DAWN architecture. (May be published
-  as an Informational RFC, but maybe held until the Protocol work is
+  as an Informational RFC, but may be held until the Protocol work is
   considered stable.)
 
 - Use Cases: A document describing broad DAWN use case categories.
